@@ -1,0 +1,26 @@
+header {
+	background-color: gray
+}
+.barra-navegacion{
+	float: right;
+	margin-right: 80px;
+}
+.barra-navegacion > li {
+	color: white;
+	cursor:pointer;
+	float: left;
+	margin-right: 50px;
+	padding: 5px;
+	text-transform: uppercase;
+}
+.logo {
+	height: 48px;
+	width: 48px;
+}
+.main-nav {
+	background-color: rgba(0,0,0,0,8);
+	padding: 1em;
+	position: fixed;
+	top: 0px;
+	width: 100%
+}
